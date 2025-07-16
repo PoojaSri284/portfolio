@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/pooja_portfolio/',
+  base: '/portfolio/',
 });
