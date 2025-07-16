@@ -347,7 +347,7 @@ function App() {
               <div className="w-24 h-24 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full p-1 transform hover:scale-110 transition-all duration-300 shadow-2xl">
                 <div className="w-full h-full bg-slate-900 rounded-full flex items-center justify-center overflow-hidden">
  <img 
-  src="/pooja_portfolio/Profile.jpg" 
+  src="/portfolio/Profile.jpg" 
   alt="Pooja Sri S"
   className="w-20 h-20 rounded-full object-cover"
 />
