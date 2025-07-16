@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mr-yogii.github.io/pooja_portfolio",
+  "homepage": "https://PoojaSri284.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
